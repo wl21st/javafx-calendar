@@ -1,3 +1,5 @@
 /.idea
 /out
 /javafx-calendar-example.iml
+/target/
+/*.iml

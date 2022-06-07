@@ -9,7 +9,7 @@ Example of a full calendar using javafx and fxml with clickable days
     * Can be used to do different actions, i.e. open a new window or redirect to a view of the specific day.
 * fullCalendar.fxml
     * FXML file to show the use of the calendar with FXML files.
-* Main
+* com.sf.app.javafx.Main
     * Run to demo the programmatically generated calendar.
 * FXMLMain
     * Run to demo the FXML calendar.

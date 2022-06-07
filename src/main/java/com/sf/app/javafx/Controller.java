@@ -1,3 +1,5 @@
+package com.sf.app.javafx;
+
 import javafx.fxml.FXML;
 import javafx.scene.layout.Pane;
 
